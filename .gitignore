@@ -1,0 +1,6 @@
+node_modules/
+screenshot/*.png
+test.js
+.DS_Store
+.idea/
+test.html
